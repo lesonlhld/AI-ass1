@@ -1,0 +1,11 @@
+Algorithm: 1. Number of: 4. Time: 0.0s
+Algorithm: 1. Number of: 4. Time: 0.0010006427764892578s
+Algorithm: 2. Number of: 4. Time: 0.005403280258178711s
+Algorithm: 1. Number of: 4. Time: 0.0s
+Algorithm: 2. Number of: 4. Time: 0.0s
+Algorithm: 1. Number of: 4. Time: 0.003003358840942383s
+Algorithm: 1. Number of: 8. Time: 7.7460057735443115s
+Algorithm: 1. Number of: 4. Time: 0.019016504287719727s
+Algorithm: 2. Number of: 4. Time: 0.09040379524230957s
+Algorithm: 1. Number of: 5. Time: 0.09398317337036133s
+Algorithm: 2. Number of: 5. Time: 0.10999846458435059s
